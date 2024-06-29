@@ -1,0 +1,112 @@
+{
+    "tivi": [
+        {
+          "id": 1,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/s/m/smart-tivi-khung-tranh-samsung-the-frame-ltv-4k-55-inch-55ls03ba.png",
+          "name": "Smart-Tivi-Khung-Tranh-The-Frame-4K-Samsung-LTV-55-inch-55LS03BA",
+          "price": "15.990.000₫",
+          "discountedPrice": "31.900.000₫ -50%",
+          "screenSize": "55",
+          "speed": "120Hz",
+          "qled": "4K",
+          "nametv": "Smart Tivi",
+          "prname": " Khung Tranh The Frame 4K Samsung LTV 55 inch 55LS03BA"
+        },
+        {
+          "id": 2,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/6/5/65q60bak.png",
+          "name": "Smart-Tivi-Samsung-QLED-65-inch-65Q60BAK",
+          "price": "14.990.000₫",
+          "discountedPrice": "28.900.000₫ -48%",
+          "screenSize": "65",
+          "speed": "",
+          "qled": "4K",
+          "nametv": "Smart Tivi",
+          "prname": " Samsung QLED 65 inch 65Q60BAK"
+        },
+        {
+          "id": 3,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/_/1_198.jpg",
+          "name": "Smart-Tivi-Samsung-UHD-4K-43-inch-UA43AU7002",
+          "price": "6.990.000₫",
+          "discountedPrice": "9.900.000₫ -29%",
+          "screenSize": "43",
+          "speed": "60Hz",
+          "qled": "4K",
+          "nametv": "Smart Tivi",
+          "prname": " Samsung UHD 4K 43 inch UA43AU7002"
+        },
+        {
+          "id": 4,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/t/i/tivi-xiaomi-redmi-max-86-inch_11_.png",
+          "name": "Xiaomi-Smart-Display-Max-86-inch",
+          "price": "26.990.000₫",
+          "discountedPrice": "29.990.000₫ -10%",
+          "screenSize": "86",
+          "speed": "120Hz",
+          "qled": "4K",
+          "prname": " Display Max 86 inch",
+          "nametv": "Xiaomi Smart"
+        },
+        {
+          "id": 5,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/t/i/tivi_xiaomi_a_pro_65_inch_4k.png",
+          "name": "Tivi-Xiaomi-A-Pro-65-inch-4K",
+          "nametv": "Tivi Xiaomi",
+          "price": "13.490.000₫",
+          "discountedPrice": "14.990.000₫ -10%",
+          "screenSize": "65",
+          "speed": "60Hz",
+          "qled": "4K",
+          "prname": " A Pro 65 inch 4K"
+        },
+        {
+          "id": 6,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/s/m/smart-tivi-xiaomi-p1-43-inch.png",
+          "name": "Android-Tivi-Xiaomi-P1-43-inch",
+          "nametv": "Android Tivi",
+          "price": "5.990.000₫",
+          "discountedPrice": "9.990.000₫ -40%",
+          "screenSize": "43",
+          "speed": "60Hz",
+          "qled": "4K",
+          "prname": " Xiaomi P1 43 inch"
+        },
+        {
+          "id": 7,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/f/v/fvfv.png",
+          "name": "Smart-Google-Tivi-Coocaa-4K-70-inch-70C9",
+          "nametv": "Smart Google",
+          "price": "9.490.000₫",
+          "discountedPrice": "25.000.000₫ -62%",
+          "screenSize": "70",
+          "speed": "",
+          "qled": "4K",
+          "prname": " Tivi Coocaa 4K 70 inch 70C9"
+        },
+        {
+          "id": 8,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_22.png",
+          "name": "Google-Tivi-Coocaa-4K-55-inch-55Y72",
+          "nametv": "Google Tivi",
+          "price": "7.490.000₫",
+          "discountedPrice": "20.000.000₫ -63%",
+          "screenSize": "55",
+          "speed": "60Hz",
+          "qled": "4K",
+          "prname": " Coocaa 4K 55 inch 55Y72"
+        },
+        {
+          "id": 9,
+          "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/t/i/tivi-coocaa-4k-50-inch-50y72_7_.jpg",
+          "name": "Google-Tivi-Coocaa-4K-50-inch-50Y72",
+          "nametv": "Google Tivi",
+          "price": "6.590.000₫",
+          "discountedPrice": "11.900.000₫ -29%",
+          "screenSize": "50",
+          "speed": "",
+          "qled": "4K",
+          "prname": " Coocaa 4K 50 inch 50Y72"
+        }
+      ]
+}
