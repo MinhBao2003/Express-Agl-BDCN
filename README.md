@@ -1,5 +1,7 @@
 //data của angular BDCN
+
 **muốn chạy được node js (express)
+
 phải cài node từ trang chủ :
 
 `
