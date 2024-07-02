@@ -17,7 +17,7 @@ npm install -g json-server
 mở data trong visual code gõ :
 
 `
-ctrl + shift + `~
+ctrl + shift + ~
 `
 
 ![image](https://github.com/MinhBao2003/Express-Agl-BDCN/assets/146474537/e34b6de6-199e-4315-be45-9b4feaf3816e)
